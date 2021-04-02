@@ -4,7 +4,6 @@
 
 To View the live site click [here &rarr;](https://kuenane.netlify.app/)
 
-![Portfolio Gif](/images/portfolio.gif)
 
 ## Features
 
