@@ -15,7 +15,5 @@ To View the live site click [here &rarr;](https://kuenane.netlify.app/)
 - Fully Responsive.
 - Loads fast ⚡.
 
-## Lighthouse Report
 
-![Lighthouse Report](/images/lighthouse-report.png)
 
